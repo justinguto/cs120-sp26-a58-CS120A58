@@ -1,1 +1,4 @@
 3
+Alice 90 80
+Bob 70 60
+Carol 100 95
