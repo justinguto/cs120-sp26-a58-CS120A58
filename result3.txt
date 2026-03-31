@@ -1,0 +1,3 @@
+Enter the total number of students:Enter the student name and two scores: Enter the student name and two scores: Total 2 students
+Student Name: Jim score1: 85 score2: 75 Sum: 160 Avg: 80
+Student Name: Kate score1: 95 score2: 90 Sum: 185 Avg: 92.5
